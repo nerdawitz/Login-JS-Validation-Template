@@ -1,0 +1,12 @@
+.container {
+	margin-top: 10rem;
+}
+.container h1{
+	text-align: center;
+}
+.butt{
+	text-align: center;
+}
+.message{
+	color: red;
+}
